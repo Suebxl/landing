@@ -1,0 +1,29 @@
+.cards {
+  display:flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+  }
+
+.card {
+  padding: 15px;
+  border: 1px solid grey;
+  box-shadow: 0 2px 0 rgba(0,0,0,0.3);
+
+}
+
+.card img {
+  width: 300px;
+  height: 150px;
+  border-radius: 8px;
+  object-fit: cover
+
+}
+
+.card h3 {
+  color: #D82148
+}
+
+.container h2 {
+  color: #D82148;
+  font-weight: bold;
+}

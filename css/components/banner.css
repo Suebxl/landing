@@ -1,0 +1,27 @@
+.banner {
+  background-image: url(https:/source.unsplash.com/ydJIAmtkR2Q);
+  background-position: center;
+  background-size: cover;
+  min-height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.banner > .container {
+    color: white;
+}
+
+.banner h1{
+  font-size: 64px;
+  color: white;
+  margin: 0;
+}
+
+.banner p{
+  font-size: 32px;
+  color: white;
+  margin: 0;
+  margin-bottom: 20px;
+}

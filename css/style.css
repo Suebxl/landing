@@ -1,0 +1,28 @@
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600&display=swap');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Utilities */
+
+body {
+  margin: 0;
+  font-family: Raleway;
+ }
+
+h1, h2, h3, h4 {
+  color: black;
+  }
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+.text-center {
+  text-align: center;
+}
